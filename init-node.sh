@@ -1,7 +1,7 @@
 #!/bin/bash
 set -exm
 
-export RPC_PORT=18332
+export RPC_PORT=18443
 export PORT=18444
 export NODE_NAME="node"
 
